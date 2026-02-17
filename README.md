@@ -31,6 +31,7 @@ I care about clean architecture, pragmatic tradeoffs, and shipping.
 ## What I've worked on (high level)
 - Designing and maintaining **backend services/APIs** in .NET (incl. AWS integrations)
 - Building **microservice-based** systems with **Docker** and async workflows
+- Integrations with external services/tooling (e.g. Stripe)
 - Health checks, logging, and “keep it running” improvements (reliability/observability)
 - Writing tests, doing code reviews, and iterating on architecture
 
