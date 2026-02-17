@@ -1,35 +1,38 @@
 ## Hi there 👋
 
 **.NET Backend Developer** · Poznań, Poland 🇵🇱  
-AWS Certified (SAA, DVA) · Microservices · APIs · Docker · AI tooling
+AWS Certified (SAA, DVA) · Microservices · APIs · Docker · AI tooling · Arch Linux enthustiast
 
 🔗 LinkedIn: https://www.linkedin.com/in/miros%C5%82aw-nawrot-67b515150/
 
 ---
 
 ## About
-Backend-focused .NET developer building services and web applications in **C#/.NET** and **AWS**.  
-I like clean architecture, pragmatic engineering, and learning by shipping small projects.
+Backend-focused .NET developer building **production-style** services in **C#/.NET** with a strong interest in
+**cloud (AWS)**, **containerized deployments**, and **observability**.
+
+I like turning “learning projects” into realistic systems: microservice-style boundaries, async messaging,
+background jobs, health checks, and deployable environments (local Docker Compose → single-VM EC2 dev setup).
+I care about clean architecture, pragmatic tradeoffs, and shipping.
 
 ---
 
 ## Tech stack
 - **Core:** C#, .NET, AWS
 - **Architecture:** Microservices, CQRS, SOLID
-- **APIs:** REST, SOAP, gRPC, GraphQL, SignalR
+- **Communication:** REST, gRPC, GraphQL, SignalR, messaging (RabbitMQ / SQS)
 - **Data:** SQL / T-SQL, PostgreSQL, MongoDB, Redis
-- **OS:** Windows, Linux (Arch, Debian)
-- **Tools:** Docker, Git, Postman/Insomnia, Rider, Visual Studio, VS Code
+- **DevOps/Tools:** Docker, Git, CI tinkering, Postman/Insomnia, Rider / Visual Studio / VS Code
 - **Libraries:** EF Core, Dapper, MediatR, Hangfire, Serilog (Seq)
-- **Testing:** NUnit, xUnit, Moq, AutoFixture
+- **Testing:** xUnit/NUnit, Moq, AutoFixture
 
 ---
 
 ## What I've worked on (high level)
 - Designing and maintaining **backend services/APIs** in .NET (incl. AWS integrations)
-- Building **microservice-based** systems with **Docker** and messaging (RabbitMQ, AWS SQS)
-- Working with relational + NoSQL data stores and caching where useful
-- Writing tests, doing code reviews, and improving reliability/observability
+- Building **microservice-based** systems with **Docker** and async workflows
+- Health checks, logging, and “keep it running” improvements (reliability/observability)
+- Writing tests, doing code reviews, and iterating on architecture
 
 ---
 
@@ -41,4 +44,4 @@ I like clean architecture, pragmatic engineering, and learning by shipping small
 
 ## Currently
 - Open to **.NET Backend / Software Engineer** roles (Poznań / hybrid / remote) — **Mid / early Senior**
-- Learning more AWS + cloud-native patterns and AI tooling
+- Deepening AWS + cloud-native patterns and exploring AI tooling
