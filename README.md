@@ -36,6 +36,7 @@ I care about clean architecture, pragmatic tradeoffs, and shipping.
 - Writing tests, doing code reviews, and iterating on architecture
 
 About 6 years of commercial expierience
+
 ---
 
 ## Certifications
