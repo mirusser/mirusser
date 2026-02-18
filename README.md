@@ -35,6 +35,7 @@ I care about clean architecture, pragmatic tradeoffs, and shipping.
 - Health checks, logging, and “keep it running” improvements (reliability/observability)
 - Writing tests, doing code reviews, and iterating on architecture
 
+About 6 years of commercial expierience
 ---
 
 ## Certifications
