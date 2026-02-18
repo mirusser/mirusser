@@ -3,7 +3,7 @@
 **.NET Backend Developer** · Poznań, Poland 🇵🇱  
 AWS Certified (SAA, DVA) · Microservices · APIs · Docker · AI tooling · Arch Linux enthustiast
 
-🔗 LinkedIn: https://www.linkedin.com/in/miros%C5%82aw-nawrot-67b515150/
+🔗 LinkedIn: https://www.linkedin.com/in/mirusser/
 
 ---
 
