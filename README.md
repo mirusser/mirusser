@@ -21,7 +21,7 @@ I’m building my own small AI-native platform operations stack with:
 - **Architecture:** Microservices, CQRS, SOLID
 - **Communication:** REST, gRPC, GraphQL, SignalR, messaging (RabbitMQ / SQS)
 - **Data:** SQL / T-SQL, PostgreSQL, MongoDB, Redis
-- **DevOps/Tools:** Docker, Git, CI tinkering, Postman/Insomnia, Rider / Visual Studio / VS Code
+- **DevOps/Tools:** Kubernetes, Docker, Git, CI/CD, Grafana, Postman/Insomnia, Rider / Visual Studio / VS Code
 - **Libraries:** EF Core, Dapper, MediatR, Hangfire, Serilog (Seq)
 - **Testing:** xUnit/NUnit, Moq, AutoFixture
 
