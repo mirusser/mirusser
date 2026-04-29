@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **.NET Backend Developer** · Poznań, Poland 🇵🇱  
-AWS Certified (SAA, DVA) · Microservices · APIs · Kubernetes/Docker · AI tooling · Arch Linux enthustiast
+AWS Certified (SAA, DVA) · Microservices · APIs · Kubernetes/Docker · AI tooling · Arch Linux enthusiast
 
 🔗 LinkedIn: https://www.linkedin.com/in/mirusser/
 
@@ -11,8 +11,8 @@ AWS Certified (SAA, DVA) · Microservices · APIs · Kubernetes/Docker · AI too
 Backend-focused .NET developer building **production-style** services in **C#/.NET** with a strong interest in
 **cloud (AWS)**, **containerized deployments**, and **observability**.
 
-I’m building my own small AI-native platform operations stack with:
-[Simple weather project](https://github.com/mirusser/Simple-Weather-Site) + [infra gate](https://github.com/mirusser/infra-gate)
+I’m building a small AI-native platform operations stack: 
+a production-style [weather microservices](https://github.com/mirusser/Simple-Weather-Site) app plus [InfraGate](https://github.com/mirusser/infra-gate), an MCP-based Kubernetes control layer with OAuth, RBAC, audit, guardrails, and approval-gated changes.
 
 ---
 
@@ -34,7 +34,7 @@ I’m building my own small AI-native platform operations stack with:
 - Health checks, logging, and “keep it running” improvements (reliability/observability)
 - Writing tests, doing code reviews, and iterating on architecture
 
-About 6 years of commercial expierience
+About 6 years of commercial experience
 
 ---
 
