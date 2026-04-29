@@ -39,8 +39,8 @@ About 6 years of commercial experience
 ---
 
 ## Certifications
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified Developer – Associate**
+- [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/5639f55d-7a60-40f0-8f61-77e42416f384/)
+- [**AWS Certified Developer – Associate**](https://www.credly.com/badges/c5d168f7-dcf3-4f66-a8a3-04fe232a61d7)
 
 ---
 
