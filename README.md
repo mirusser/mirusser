@@ -13,7 +13,7 @@ Backend-focused .NET developer building **production-style** services in **C#/.N
 
 I’m building a small AI-native platform operations stack: 
 [Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with OAuth, RBAC, audit, guardrails, and approval-gated changes
-and a production-style [weather microservices](https://github.com/mirusser/Simple-Weather-Site) app plus .
+and a production-style [weather microservices](https://github.com/mirusser/Simple-Weather-Site) app.
 
 ---
 
