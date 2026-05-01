@@ -8,12 +8,12 @@ AWS Certified (SAA, DVA) · Microservices · APIs · Kubernetes/Docker · AI too
 ---
 
 ## About
-Backend-focused .NET developer building **production-style** services in **C#/.NET** with a strong interest in
+Backend-focused .NET developer building services in **C#/.NET** with a strong interest in
 **cloud (AWS)**, **containerized deployments**, and **observability**.
 
 I’m building a small AI-native platform operations stack: 
 [Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with OAuth, RBAC, audit, guardrails, and approval-gated changes
-and a production-style [weather microservices](https://github.com/mirusser/Simple-Weather-Site) app.
+and a [weather microservices](https://github.com/mirusser/Simple-Weather-Site).
 
 ---
 
