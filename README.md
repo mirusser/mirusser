@@ -48,4 +48,4 @@ About 6 years of commercial experience
 ## Currently
 - Open to **.NET Backend / Software Engineer** roles (Poznań / hybrid / remote) — **Mid / early Senior**
 - Deepening AWS + cloud-native patterns and exploring AI
-- Finding bugs in MCP protocols and official SDK: [csharp-sdk/issues](https://github.com/modelcontextprotocol/csharp-sdk/issues/1592)
+- Finding bugs in MCP and official SDK: [csharp-sdk/issues](https://github.com/modelcontextprotocol/csharp-sdk/issues/1592)
