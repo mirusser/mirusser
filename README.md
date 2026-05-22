@@ -12,7 +12,7 @@ Backend-focused .NET developer building services in **C#/.NET** with a strong in
 **cloud (AWS)**, **containerized deployments**, and **observability**.
 
 I’m building a small AI-native platform operations stack: 
-[Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with OAuth, RBAC, audit, guardrails, and approval-gated changes
+[Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with Human-in-the-loop, OAuth, RBAC, audit, guardrails, and approval-gated changes
 and a [weather microservices](https://github.com/mirusser/Simple-Weather-Site).
 
 ---
@@ -20,7 +20,7 @@ and a [weather microservices](https://github.com/mirusser/Simple-Weather-Site).
 ## Tech stack
 - **Core:** C#, .NET, AWS
 - **Architecture:** Microservices, CQRS, SOLID
-- **Communication:** REST, gRPC, GraphQL, SignalR, messaging (RabbitMQ / SQS)
+- **Communication:** REST, MCP, gRPC, GraphQL, SignalR, messaging (RabbitMQ / SQS)
 - **Data:** SQL / T-SQL, PostgreSQL, MongoDB, Redis
 - **DevOps/Tools:** Kubernetes, Docker, Git, CI/CD, Grafana, Postman/Insomnia, Rider / Visual Studio / VS Code
 - **Libraries:** EF Core, Dapper, MediatR, Hangfire, Serilog (Seq)
