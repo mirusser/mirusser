@@ -12,7 +12,7 @@ Backend-focused .NET developer building services in **C#/.NET** with a strong in
 **cloud (AWS)**, **containerized deployments**, and **observability**.
 
 I’m building a small AI-native platform operations stack: 
-[Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with Human-in-the-loop, OAuth, RBAC, audit, guardrails, and approval-gated changes
+[Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with out-of-band Human-in-the-loop, OAuth, RBAC, audit, guardrails, and approval-gated changes
 and a [weather microservices](https://github.com/mirusser/Simple-Weather-Site).
 
 ---
