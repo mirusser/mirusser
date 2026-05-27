@@ -1,41 +1,62 @@
 ## Hi there 👋
 
 **.NET Backend Developer** · Poznań, Poland 🇵🇱  
-AWS Certified (SAA, DVA) · Microservices · APIs · Kubernetes/Docker · AI tooling · Arch Linux enthusiast
+AWS Certified (SAA, DVA) · Microservices · APIs · Kubernetes/Docker · AI security · Arch Linux enthusiast
 
 🔗 LinkedIn: https://www.linkedin.com/in/mirusser/
 
 ---
 
 ## About
-Backend-focused .NET developer building services in **C#/.NET** with a strong interest in
-**cloud (AWS)**, **containerized deployments**, and **observability**.
 
-I’m building a small AI-native platform operations stack: 
-[Kubernetes-MCP-Guard](https://github.com/mirusser/infra-gate) an MCP-based Kubernetes control layer with out-of-band Human-in-the-loop, OAuth, RBAC, audit, guardrails, and approval-gated changes
-and a [weather microservices](https://github.com/mirusser/Simple-Weather-Site).
+I’m a backend-focused .NET developer with around **6 years of commercial experience**, building services, APIs, integrations, and cloud-oriented (AWS) systems in **C#/.NET**.
+
+My current focus is the intersection of **backend engineering, cloud-native infrastructure, and secure AI tooling** especially around MCP, Kubernetes, approval-gated automation, OAuth, RBAC, auditability, and human-in-the-loop control.
+
+I’m currently building [Kubernetes MCP Guard](https://github.com/mirusser/Kubernetes-MCP-Guard), a reference implementation for safe AI-driven Kubernetes remediation, where agents can observe and propose changes, but infrastructure mutations require out-of-band human approval before execution.
+
+---
+
+## Featured project
+
+### 🛡️ Kubernetes MCP Guard
+
+A security-first bridge between AI agents and Kubernetes.
+
+The project explores a safer pattern for AI-assisted operations:
+
+- agents inspect a narrow Kubernetes surface through read-only tools;
+- remediation plans are generated from server-side dry-run evidence;
+- approval happens out-of-band in an authenticated browser session;
+- execution is bound to approved plan digests;
+- gateway controls enforce scope, RBAC, policy checks, and auditability.
+
+Tech: **.NET 10, Kubernetes, Docker, MCP, OAuth/OIDC, PostgreSQL, Keycloak, GitHub Actions**
+
+Repo: https://github.com/mirusser/Kubernetes-MCP-Guard
 
 ---
 
 ## Tech stack
-- **Core:** C#, .NET, AWS
-- **Architecture:** Microservices, CQRS, SOLID
-- **Communication:** REST, MCP, gRPC, GraphQL, SignalR, messaging (RabbitMQ / SQS)
-- **Data:** SQL / T-SQL, PostgreSQL, MongoDB, Redis
-- **DevOps/Tools:** Kubernetes, Docker, Git, CI/CD, Grafana, Postman/Insomnia, Rider / Visual Studio / VS Code
-- **Libraries:** EF Core, Dapper, MediatR, Hangfire, Serilog (Seq)
+
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, MCP, gRPC, GraphQL, SignalR
+- **Architecture:** Microservices, CQRS, SOLID, background services, messaging
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, GitHub Actions
+- **Data:** PostgreSQL, SQL Server / T-SQL, MongoDB, Redis
+- **Observability:** structured logging, health checks, Grafana, Serilog, Seq
+- **Security interests:** OAuth/OIDC, RBAC, approval workflows, audit trails, AI/tooling guardrails
 - **Testing:** xUnit/NUnit, Moq, AutoFixture
+- **Tools:** Codex, Claude, OpenCode (etc.), Rider, Visual Studio, VS Code, Postman/Insomnia, Arch Linux
 
 ---
 
-## What I've worked on (high level)
-- Designing and maintaining **backend services/APIs** in .NET (incl. AWS integrations)
-- Building **microservice-based** systems with **Docker** and async workflows
-- Integrations with external services/tooling (e.g. Stripe)
-- Health checks, logging, and “keep it running” improvements (reliability/observability)
-- Writing tests, doing code reviews, and iterating on architecture
-
-About 6 years of commercial experience
+## What I've worked on
+- Designing and maintaining backend services and APIs in .NET (incl. AWS integrations)
+- Building microservice-based systems with Docker and asynchronous workflows
+- Integrating external services and payment/tooling providers (e.g. Stripe)
+- Improving reliability through logging, health checks, and observability
+- Writing tests, reviewing code, and iterating on system architecture
+- Building AI-native infrastructure tooling around MCP and Kubernetes safety
 
 ---
 
@@ -48,4 +69,4 @@ About 6 years of commercial experience
 ## Currently
 - Open to **.NET Backend / Software Engineer** roles (Poznań / hybrid / remote) — **Mid / early Senior**
 - Deepening AWS + cloud-native patterns and exploring AI
-- Finding bugs in MCP and official SDK: [csharp-sdk/issues](https://github.com/modelcontextprotocol/csharp-sdk/issues/1592)
+- Active in the MCP ecosystem, including reporting issues in the official C# SDK: [csharp-sdk/issues](https://github.com/modelcontextprotocol/csharp-sdk/issues/1592)
