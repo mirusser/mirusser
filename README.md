@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/MCP-Safe%20AI%20Tools-7C3AED?style=for-the-badge" />
 </p>
 
-<p align="center">
-  🔗 LinkedIn: https://www.linkedin.com/in/mirusser/
-</p>
-
 ---
 
 ## About
