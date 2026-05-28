@@ -31,7 +31,7 @@ My current focus is the intersection of **backend engineering, cloud-native infr
 
 ---
 
-## 🛡️ Featured: Kubernetes MCP Guard
+## Featured: Kubernetes MCP Guard  🛡️
 
 > **Safe AI-driven Kubernetes remediation, by design.**  
 >
@@ -53,50 +53,19 @@ My current focus is the intersection of **backend engineering, cloud-native infr
 
 ---
 
-<h2 align="center">Tech stack</h2>
+## Tech stack
 
-<table align="center">
-  <tr>
-    <th>Area</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>🧩 <strong>Backend</strong></td>
-    <td>C#, .NET, ASP.NET Core, REST APIs, MCP, gRPC, GraphQL, SignalR</td>
-  </tr>
-  <tr>
-    <td>🏗️ <strong>Architecture</strong></td>
-    <td>Microservices, CQRS, SOLID, background services, messaging</td>
-  </tr>
-  <tr>
-    <td>☁️ <strong>Cloud &amp; DevOps</strong></td>
-    <td>AWS, Docker, Kubernetes, CI/CD, GitHub Actions</td>
-  </tr>
-  <tr>
-    <td>🗄️ <strong>Data</strong></td>
-    <td>PostgreSQL, SQL Server / T-SQL, MongoDB, Redis</td>
-  </tr>
-  <tr>
-    <td>📈 <strong>Observability</strong></td>
-    <td>structured logging, health checks, Grafana, Serilog, Seq</td>
-  </tr>
-  <tr>
-    <td>🛡️ <strong>Security interests</strong></td>
-    <td>OAuth/OIDC, RBAC, approval workflows, audit trails, AI/tooling guardrails</td>
-  </tr>
-  <tr>
-    <td>🧪 <strong>Testing</strong></td>
-    <td>xUnit/NUnit, Moq, AutoFixture</td>
-  </tr>
-  <tr>
-    <td>🛠️ <strong>Tools</strong></td>
-    <td>Codex, Claude, OpenCode, Rider, Visual Studio, VS Code, Postman/Insomnia etc.</td>
-  </tr>
-  <tr>
-    <td>🐧 <strong>Daily driver energy </strong></td>
-    <td> Arch Linux enthusiast</td>
-  </tr>
-</table>
+| Area | Technologies |
+| --- | --- |
+| 🧩 **Backend** | C#, .NET, ASP.NET Core, REST APIs, MCP, gRPC, GraphQL, SignalR |
+| 🏗️ **Architecture** | Microservices, CQRS, SOLID, background services, messaging |
+| ☁️ **Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, GitHub Actions |
+| 🗄️ **Data** | PostgreSQL, SQL Server / T-SQL, MongoDB, Redis |
+| 📈 **Observability** | structured logging, health checks, Grafana, Serilog, Seq |
+| 🛡️ **Security interests** | OAuth/OIDC, RBAC, approval workflows, audit trails, AI/tooling guardrails |
+| 🧪 **Testing** | xUnit/NUnit, Moq, AutoFixture |
+| 🛠️ **Tools** | Codex, Claude, OpenCode, Rider, Visual Studio, VS Code, Postman/Insomnia etc. |
+| 🐧 **Daily driver energy** | Arch Linux enthusiast |
 
 ---
 
@@ -122,6 +91,6 @@ My current focus is the intersection of **backend engineering, cloud-native infr
 - 🚀 Open to .NET Backend / Software Engineer roles — Poznań / hybrid / remote
 Target level: Mid / early Senior
 - ☁️ Deepening my work around AWS, Kubernetes, and cloud-native backend patterns
-- 🤖 Building and experimenting with MCP-based and Ai agents system
+- 🤖 Building and experimenting with MCP-based and AI agents system
 - 🛡️ Exploring safer automation patterns: approval-gated execution, RBAC, audit trails, and human-in-the-loop control
 - 🧪 Active in the MCP ecosystem, including reporting issues in the official C# SDK: [csharp-sdk/issues](https://github.com/modelcontextprotocol/csharp-sdk/issues/1592)
